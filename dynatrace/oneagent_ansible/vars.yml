@@ -1,0 +1,5 @@
+dynatrace_installer_url: "https://ysd34428.live.dynatrace.com/api/v1/deployment/installer/agent/unix/default/latest?Api-Token=<token>&arch=x86"
+hosts: "development"
+#monitoring_mode: "infra-only"
+#monitoring_mode: "discovery"
+monitoring_mode: "fullstack"
